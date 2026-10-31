@@ -1,0 +1,10 @@
+{
+  "appId": "com.crchantier.app",
+  "appName": "CR Chantier",
+  "webDir": "www",
+  "plugins": {
+    "CapacitorHttp": {
+      "enabled": true
+    }
+  }
+}
